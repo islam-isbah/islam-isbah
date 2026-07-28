@@ -32,7 +32,7 @@ Building scalable web applications with ASP.NET Core, React, SQL Server, and mod
 - 💊 Licensed Pharmacist with a passion for **HealthTech**
 - 🚀 Building modern web applications using **ASP.NET Core**, **React**, **SQL Server**, and **Entity Framework Core**
 - 🛠 Experienced in RESTful APIs, Authentication & Authorization, Clean Architecture, and responsive UI development
-- 🌱 Currently expanding my knowledge in **Docker**, **Azure**, **Microservices**, and **Software Architecture**
+- 🌱 Currently expanding my knowledge in **Azure**, **Microservices**, and **Software Architecture**
 - 🎯 I enjoy solving real-world problems through clean, scalable, and maintainable code
 
 ---
